@@ -1,5 +1,5 @@
 local hint = Instance.new("Hint",Instance.new("Folder",game:GetService("CoreGui")))
-hint.Text = "\nThis Script Was Made By KingLogie#0001"
+hint.Text = "\nThis script was made by KingLogie#0001\nDO NOT CLAIM AS YOUR OWN"
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 local rs = game:GetService("RunService")
